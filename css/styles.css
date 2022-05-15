@@ -1,0 +1,15 @@
+/******************TAG SELECTOR************************/
+body {background-color: #EAF6F6;}
+hr{border-style:none;
+  border-color: grey;
+  border-width: 5px;
+  border-top-style: dotted;
+  width: 5%;}
+  h2 {color: #66BFBF;}
+h4 {color: #66BFBF;}
+h3{color: #66BFBF;}
+/******************class SELECTOR************************/
+.Sahil:hover {
+  background-color: pink;
+}
+/******************id SELECTOR***********************/
